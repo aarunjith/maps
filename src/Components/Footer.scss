@@ -1,0 +1,44 @@
+.d-buttons {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #deeaee;
+    .c-btn {
+        margin-left: 7%;
+    }
+    .c-btn, .s-btn, .p-btn, .e-btn {
+        width: 5%;
+        padding: 5px;
+        color: "#000000";
+        margin-right: 3%;
+        background: yellow;
+        text-align: center;
+        font-size: 12px;
+        font-weight: 800;
+        border: 1px solid black;
+    }
+}
+
+
+.footer {
+    width: 100%;
+    padding: 10px 20px;
+    text-align: center;
+    color: #0000FF	;
+    font-weight: 500;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #C1341A;
+    // background: #fff;
+    .text {
+        // width: 70%;
+        // text-align: center;
+    }
+    .date {
+        // width: 30%;
+        margin-left: 30px;
+        text-align: end;
+    }
+}

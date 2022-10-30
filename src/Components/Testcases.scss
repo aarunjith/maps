@@ -1,0 +1,40 @@
+.test-cases {
+    // height: 100vh;
+    background-color: #deeaee;
+    padding: 10px;
+    .test-cases-ctn {
+        background: #fff;
+        height: 80vh;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        padding: 10px 0;
+        .test-drop {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            // width: 20%;
+        }
+        .col-ctn{
+            padding: 20px;
+            text-align: center;
+            // display: flex;
+            // justify-content: center;
+            // align-items: center;
+        }
+
+        .MuiFormControl-fullWidth {
+            margin-left: 5%;
+            .MuiInputBase-root {
+                width: 80%;
+            }
+        }
+        .case-img {
+            width: 100%;
+            // height: 60vh;
+        }
+        .su-title {
+            
+        }
+    }
+}
+

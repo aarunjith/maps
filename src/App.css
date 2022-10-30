@@ -1,0 +1,159 @@
+.section {
+  width: 100%;
+  padding: 10px;
+  /* background: url(./images/map4.jpg) center center; */
+  /* background-size: 15%; */
+  /* background-repeat: repeat; */
+  /* height: 100%; */
+  background-color: #deeaee;
+  
+}
+
+.tittle {
+  background-color: #b1cbbb;
+  text-align: center;
+  /* padding: 23px 10px; */
+  /* border-radius: 10px; */
+  color: #fff;
+  font-weight: bold;
+  font-size: 24px;
+  width: 100%;
+  margin: 0 auto 10px;
+}
+
+.graph{
+  width: 72.666667% !important; 
+}
+
+
+.form-bg {
+  /* background: #fffbce; */
+  /* margin-top: 6%;
+  margin-left: 6%; */
+}
+.container-row {
+  background: #fff;
+  height: 80vh;
+  /* display:flex;
+  flex-direction: row; */
+  overflow-y: scroll;
+  overflow-x: hidden;
+  /* align-items: center; */
+  /* text-align: center; */
+  /* justify-content: center; */
+}
+.row1 {
+  align-items: center;
+}
+.minmax {
+  color: #808080	!important;
+  font-size: 12px !important;
+  margin-left: 5px !important;
+}
+
+.message {
+  color: #c94c4c;
+}
+.su-title {
+  /* text-align: center; */
+}
+
+.box-2 {
+  color: #C1341A;
+}
+.su-text {
+  font-size: 14px !important;
+  color: #808080 !important;
+
+}
+
+.imageflag {
+  width: 4%;
+  height: 10%;
+  margin-left: 1%;
+}
+
+.file {
+  float: left;
+  margin: 10px;
+}
+
+.bnt {}
+
+.bnt button {
+  margin: 18px;
+  border: 2px solid #000;
+  padding: 9px;
+  border-radius: 37px;
+  background-color: #9BBB59;
+  color: #C1341A;
+  width: 80px;
+  height: 80px;
+}
+
+.filename {
+  display: none;
+}
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: blue;
+  /* margin-top: 10%; */
+}
+
+.impfile {
+  background: #FEC134;
+  border: 2px solid #000;
+  border-radius: 34px;
+  margin: 10px;
+  color: #C1341A;
+  font-weight: bold;
+  width: 80px;
+  height: 80px;
+  padding: 13px 0;
+}
+
+.frombox {
+  /* border: 3px solid #20598F; */
+  border-radius: 10px;
+  padding: 17px;
+  margin: 18px 20px;
+  background: #FAF9F6;
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+
+.form-control {
+  border: none;
+  border-bottom: 2px solid #000;
+  border-radius: unset;
+  margin: 5px 0;
+}
+
+.btn {
+  width: 100%;
+  margin: 15px 0;
+}
+
+.frombox span {
+  color: #641B1F;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px 0;
+
+}
+
+.imageflag2 {
+  width: 100%;
+  margin: 10px;
+}
+
+.heatmap {
+  /* margin: 10px; */
+}
+
+
+.content {
+  margin: 40px 0;
+}
